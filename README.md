@@ -1,0 +1,2 @@
+The PNGs serve as previews. In the code you can change GLOBAL_MAX_DATE to view forecasts for different time periods. 
+The charts are - daily/monthly hours and count of air raid alerts in Kyiv and in Ukraine, with history since 2022 and forecasts for month/3 month to your chosen date, with error calculation. Heatmaps for hours and days of the week by alert start time. Rating of regions based on hours of alerts every years 2022-2026. Heatmap of Ukraine in 4 years based on total alert hours in regions. 
